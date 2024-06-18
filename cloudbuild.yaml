@@ -6,3 +6,4 @@ steps:
 - name: 'gcr.io/cloudbuild/docker'
   args: ['push', 'us-docker.pkg.dev/bitnami-i1sp1i-9wa/natasha-blog-repo/flask-blog:latest']
 images: ['us-docker.pkg.dev/bitnami-i1sp1i-9wa/natasha-blog-repo/flask-blog:latest']
+
